@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Honglei Zhang"
-  avatar           : "images/avatar.png"
-  bio              : "PostDoc"
-  location         : "Beijing Jiaotong University, China"
+  avatar           : "images/zhl.jpg"
+  bio              : "Postdoc in BJTU"
+  location         : "Beijing Jiaotong University"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=L5o3ERIAAAAJ&hl=zh-CN"

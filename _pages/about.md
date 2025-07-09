@@ -261,8 +261,8 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   - ACM International Conference on Web Search and Data Mining (WSDM) 2026
   - Conference on Neural Information Processing Systems (NeurIPS) 2025
   - International Conference on Machine Learning (ICML) 2025
-  - International World Wide Web Conference (WWW) 2025
   - International Conference on Learning Representations (ICLR) 2025
+  - International World Wide Web Conference (WWW) 2025
   - ACM Special Interest Group on Information Retrieval (SIGIR) 2025
   - ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP) 2025
   - ACM International Conference on Multimedia (MM) 2025
