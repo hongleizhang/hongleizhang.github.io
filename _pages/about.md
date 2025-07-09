@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 About Me
+<!-- # 👋 About Me -->
+
 Hello! This is Honglei Zhang. 
 I'm currently a Research Fellow in School of Computer Science and Technology, Beijing Jiaotong University, advised by [Prof. Yidong Li](https://faculty.bjtu.edu.cn/8408/) and [Prof. Jun Wu](https://faculty.bjtu.edu.cn/8620/). From October 2024 to October 2025, I am a visiting Ph.D. student in Prof. Zhiqi Shen's group at Nanyang Technological University, Singapore.
 
