@@ -25,9 +25,9 @@ I'm currently a Research Fellow in School of Computer Science and Technology, Be
  and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang)
 -->
 
-My research interests lie in machine learning and recommender systems. More specifically, I focus on:
-- **Machine Learning:** foundation models, model merging, multi-task learning, continual/incremental learning, data-free learning, dataset/knowledge distillation
-- **Recommendation System:** multi-task/multi-scenario recommendation, sequential recommendation, robust recommendation, CTR/CVR prediction, discrete recommendation
+My research interests lie in recommender system and federated learning. More specifically, I focus on:
+- **Recommender System:** multi-task/multi-scenario recommendation, sequential recommendation, robust recommendation, CTR/CVR prediction, discrete recommendation
+- **Federated Learning:** foundation models, model merging, multi-task learning, continual/incremental learning, data-free learning, dataset/knowledge distillation
 
 
 # 🔥 News
