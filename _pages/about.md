@@ -258,27 +258,24 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 # 🔖 Services
 
 ## Conference Reviewers
+  - ACM International Conference on Web Search and Data Mining (WSDM) 2026
   - Conference on Neural Information Processing Systems (NeurIPS) 2025
-  - International Conference on Computer Vision (ICCV) 2025
   - International Conference on Machine Learning (ICML) 2025
   - International World Wide Web Conference (WWW) 2025
   - International Conference on Learning Representations (ICLR) 2025
-  - AAAI Conference on Artificial Intelligence (AAAI) 2025
+  - ACM Special Interest Group on Information Retrieval (SIGIR) 2025
+  - ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP) 2025
+  - ACM International Conference on Multimedia (MM) 2025
   - Conference on Neural Information Processing Systems (NeurIPS) 2024
   - International Conference on Machine Learning (ICML) 2024
-  - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2024
-  - AAAI Conference on Artificial Intelligence (AAAI) 2024
-  - International World Wide Web Conference (WWW) 2023
-  - ACM International Conference on Web Search and Data Mining (WSDM) 2023
+  - International World Wide Web Conference (WWW) 2024
+  - ACM International Conference on Multimedia (MM) 2024
     
 ## Journal Reviewers
-  - Transactions on Machine Learning Research (TMLR) 2024
-  - IEEE Transactions on Services Computing (TSC) 2024
-  - IEEE Transactions on Big Data (TBD) 2024
-  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 2024
-  - Neural Computing and Applications (NCAA) 2024
-  - ACM Transactions on Recommender Systems (TORS) 2022
-
+  - ACM Transactions on Information Systems (TOIS) 2025
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE) 2025
+  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 2024
+  - IEEE Transactions on Image Processing (TIP) 2022
 
 
 <!--
