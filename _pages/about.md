@@ -19,8 +19,7 @@ redirect_from:
 
 <!-- # 👋 About Me -->
 
-Hello! This is Honglei Zhang. 
-I'm currently a Research Fellow in School of Computer Science and Technology, Beijing Jiaotong University, advised by [Prof. Yidong Li](https://faculty.bjtu.edu.cn/8408/) and [Prof. Jun Wu](https://faculty.bjtu.edu.cn/8620/). From October 2024 to October 2025, I am a visiting Ph.D. student in Prof. Zhiqi Shen's group at Nanyang Technological University, Singapore.
+Hello! This is Honglei Zhang (张洪磊, E-mail: honglei.zhang@bjtu.edu.cn). I'm currently a Siyuan Postdoc Fellow in School of Computer Science and Technology, Beijing Jiaotong University (BJTU). I got my Ph.D degree in School of Computer Science and Technology, Beijing Jiaotong University (SCST, BJTU), advised by [Prof. Yidong Li (李浥东)](https://faculty.bjtu.edu.cn/8408/). Before that, I got my Master degree in SCST of BJTU), advised by [Prof. Jun Wu (邬俊)](https://faculty.bjtu.edu.cn/8620/). From October 2024 to October 2025, I am a visiting Ph.D in Prof. Zhiqi Shen's group at Nanyang Technological University, Singapore.
 
 <!-- 
  and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang)
