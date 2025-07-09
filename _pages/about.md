@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-Hello! This is Enneng Yang. 
-I'm currently a fourth-year Ph.D. student in Software College, [Northeastern University, China](https://www.neu.edu.cn/), advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). I am honored to work closely with [Assoc. Prof. Li Shen](https://sites.google.com/site/mathshenli/home) of [Sun Yat-sen University, China](https://shenzhen.sysu.edu.cn/). From March 2024 to March 2025, I am a visiting Ph.D. student in [Prof. Jie Zhang](https://personal.ntu.edu.sg/zhangj/)'s group at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/).
+Hello! This is Honglei Zhang. 
+I'm currently a Research Fellow in School of Computer Science and Technology, Beijing Jiaotong University, advised by [Prof. Yidong Li](https://faculty.bjtu.edu.cn/8408/. From October 2024 to October 2025, I am a visiting Ph.D. student in Prof. Zhiqi Shen's group at [anyang Technological University, Singapore.
 
 <!-- 
  and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang)
