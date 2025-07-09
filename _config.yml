@@ -24,10 +24,10 @@ author:
   name             : "Honglei Zhang"
   avatar           : "images/zhl.jpg"
   bio              : "Postdoc in BJTU"
-  location         : "Beijing Jiaotong University"
+  location         : "Beijing"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=L5o3ERIAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=L5o3ERIAAAAJ&hl=zh-CN"
   email            : "honglei.zhang@bjtu.edu.cn"
   researchgate     :  
   uri              :
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : https://www.zhihu.com/people/hongleizhang
+  zhihu            : "https://www.zhihu.com/people/hongleizhang"
 
 
 # Reading Files
