@@ -1,0 +1,78 @@
+---
+layout: compress
+---
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+     <style>
+    .projects-box {
+      /* background-color: green; */
+      height: 180px;
+      position: relative;
+      overflow: hidden;
+      transition: all ease-in .1s;
+
+    }
+    .projects-show {
+      padding: 0;
+      margin: 0;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      text-align: center;
+      height: 15px;
+      line-height: 20px;
+      width: 100%;
+      font-size: 12px;
+      color: #0067c8;
+      cursor: pointer;
+      background: linear-gradient(to bottom, transparent, #fff, #fff);
+    }
+    .projects-show-text {
+      position: relative;
+      top: 5px;
+    }
+  </style>
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <div id="main" role="main">
+      {% include sidebar.html %}
+    
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
+        </div>
+      </article>
+    </div>
+    {% include scripts.html %}
+
+          <script>
+          let show = false;
+          document.querySelector('#projects-show').onclick = function() {
+            if (!show) {
+              document.querySelector('#projects-box').style.height = 'auto';
+              document.querySelector('#projects-box').style.paddingBottom = '20px';
+              document.querySelector('#projects-show-text').innerHTML = 'Less';
+              show = true;
+            } else {
+              show = false;
+              document.querySelector('#projects-box').style.height = '180px';
+              document.querySelector('#projects-box').style.paddingBottom = '0px';
+              document.querySelector('#projects-show-text').innerHTML = 'More';
+            }
+          }
+        </script>
+  </body>
+
+</html>

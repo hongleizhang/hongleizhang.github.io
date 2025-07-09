@@ -1,0 +1,28 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
+  
+  - title: "Repositories"
+    url: "/#-repositories"
+    
+  - title: "Publications"
+    url: "/#-selected-preprints-and-publications"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Internships"
+    url: "/#-internships"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+    
+  - title: "Invited Talks"
+    url: "/#-invited-talks"
+    
+  - title: "Services"
+    url: "/#-services"
