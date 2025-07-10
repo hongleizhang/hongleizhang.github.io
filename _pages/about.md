@@ -116,13 +116,17 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `ICDE 2025` | [Paper](https://ieeexplore.ieee.org/abstract/document/10597923/)  \
   **Honglei Zhang**, Shuyi Wang, Haoxuan Li, Chunyuan Zheng, Xu Chen, Li Liu, Shanshan Luo, Peng Wu.
   
+- [TransFR: Transferable Federated Recommendation with Pre-trained Language Models](https://arxiv.org/pdf/2402.01124) \
+  `Arxiv 2024` | [Paper](https://arxiv.org/pdf/2402.01124)\
+  **Honglei Zhang**, Zhiwei Li, Haoxuan Li, Yidong Li.
+  
 - [Robust Watermarking using Inverse Gradient Attention](https://arxiv.org/abs/2011.10850) \
   `Arxiv 2022` | [Paper](https://arxiv.org/abs/2011.10850)  \
   **Honglei Zhang**, Hu Wang, Yuanzhouhan Cao, Chunhua Shen, Yidong Li.
   
 - [Integrating Dual User Network Embedding with Matrix Factorization for Social Recommender Systems](https://ieeexplore.ieee.org/abstract/document/8851715/) \
   `IJCNN 2019` | [Paper](https://ieeexplore.ieee.org/abstract/document/8851715/)  \
-  Liying Chen, **Honglei Zhang**, Jun Wu.
+  Liying Chen$^{\wedge}$, **Honglei Zhang**$^{\wedge}$ ($^{\wedge}$ *indicates co-first authors*), Jun Wu.
   
 - [Social Collaborative Filtering Ensemble](https://link.springer.com/chapter/10.1007/978-3-319-97304-3_77) \
   `PRICAI 2018` | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-97304-3_77)  \
@@ -137,7 +141,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   
 - [Learning to Unlearn for Bayesian Personalized Ranking via Influence Function](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2023.00.417) \
  `电子学报 2025` | [Paper](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2023.00.417)\
-  Jundong Chen, **Honglei Zhang**, Haoxuan Li, Yidong Li.
+  Jundong Chen$^{\wedge}$, **Honglei Zhang**$^{\wedge}$ ($^{\wedge}$ *indicates co-first authors*), Haoxuan Li, Yidong Li.
  
 - [Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation](https://arxiv.org/pdf/2406.03933) \
   `Arxiv 2025` | [Paper](https://arxiv.org/pdf/2406.03933)  [Code](https://github.com/hongleizhang/FedCA)\
@@ -146,10 +150,6 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - [PrivFR: Privacy-Enhanced Federated Recommendation with Shared Hash Embedding](https://ieeexplore.ieee.org/abstract/document/10506199) \
   `TNNLS 2024` | [Paper](https://ieeexplore.ieee.org/abstract/document/10506199) \
   **Honglei Zhang**, Xin Zhou, Zhiqi Shen, Yidong Li.
-  
-- [TransFR: Transferable Federated Recommendation with Pre-trained Language Models](https://arxiv.org/pdf/2402.01124) \
-  `Arxiv 2024` | [Paper](https://arxiv.org/pdf/2402.01124)\
-  **Honglei Zhang**, Zhiwei Li, Haoxuan Li, Yidong Li.
   
 - [On Robustness of Neural ODEs Image Classifiers](https://www.sciencedirect.com/science/article/pii/S0020025523003444) \
   `INS 2024` | [Paper](https://www.sciencedirect.com/science/article/pii/S0020025523003444) \
