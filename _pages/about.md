@@ -45,11 +45,7 @@ Comments and contributions are welcome.
   This repository collects a curated list of must-read papers on recommender system. 
 - [**RSTutorials-RSAlgorithms**](https://github.com/hongleizhang/RSAlgorithms) [![](https://img.shields.io/github/stars/hongleizhang/RSAlgorithms?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/hongleizhang/RSAlgorithms) \
   This repository collects a set of algorithms about traditional and social recommender system
-  
-<!-- 
-- [**DA-CL-4Rec**](https://github.com/KingGugu/DA-CL-4Rec) [![](https://img.shields.io/github/stars/KingGugu/DA-CL-4Rec?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/KingGugu/DA-CL-4Rec) ([Yizhou Dang](https://kinggugu.github.io/) is the owner) \
-  The repository collects the latest research progress on Data Augmentation and Contrastive Learning in Recommender Systems.
--->
+
 
 # 📝 Selected Preprints and Publications 
 
