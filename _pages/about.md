@@ -170,28 +170,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 -->
 
 
-# 💻 Internships
-
-- 2023.05 - 2023.09: Intern at [Digital China Group Co., Ltd](https://www.digitalchina.com/).
-- 2022.01 - 2022.06: Research Intern at [Tencent Inc](https://www.tencent.com/), mentored by [Junwei Pan](https://scholar.google.com/citations?user=sUaBkFkAAAAJ&hl=zh-TW).
-- 2020.05 - 2021.02: Research Intern at [Tencent Inc](https://www.tencent.com/), mentored by [Junwei Pan](https://scholar.google.com/citations?user=sUaBkFkAAAAJ&hl=zh-TW) and Dr. Xiaoqing Cao.
-
-
-# 🏆 Honors and Awards
-
-- 2025.01: Youth Talents Support Project - Doctoral Student Special Program (First Session)
-- 2024.10: National Scholarship (Top 1%)
-- 2023.10: National Scholarship (Top 1%)
-- 2020.05: Tencent Rhino-Bird Elite Talent Training Program (51 People Worldwide)
-- 2019.10: National Scholarship (Top 1%)
-- 2017.10: National Scholarship (Top 1%)
-
-
 # 💬 Invited Talks
 
-- 2025.01: "Model Merging for Multi-task Learning"; Inviter: CCF·Shenzhen University
-- 2024.07: "Representation Surgery for Multi-task Model Merging"; Inviter: Wiztalk ICML 2024 Paper Sharing
-- 2021.05: "Opportunities and Challenges of Data Sparsity in Recommender Systems"; Inviter: CCF·YEF·2021 
+- 2025.04: "A Tutorial of Personalized Federated Recommender Systems: Recent Advances and Future Directions"; Inviter: WWW 2025
+- 2024.07: "How to Identify Innovation Opportunities in Recommender Systems"; Inviter: Xijing University
 
 
 # 🔖 Services
@@ -215,6 +197,12 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   - IEEE Transactions on Knowledge and Data Engineering (TKDE) 2025
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 2024
   - IEEE Transactions on Image Processing (TIP) 2022
+  
+## Organizers
+
+  - SIGKDD2022 Workshop on Trustworthy Recommender Systems, Publicity Chair
+  - WWW2025 Tutorials on Federated Recommender Systems, Speaker
+  - Official Account on Machine Learning and Recommender Systems, Founder
 
 
 <!--
