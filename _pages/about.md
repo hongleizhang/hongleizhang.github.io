@@ -150,7 +150,11 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - TransFR: Transferable Federated Recommendation with Pre-trained Language Models \
   `Arxiv 2025` | [**Paper**](https://arxiv.org/pdf/2402.01124)\
   **Honglei Zhang**, Zhiwei Li, Haoxuan Li, Yidong Li.
-    
+  
+- LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization \
+  `TOIS 2023` | [**Paper**](https://dl.acm.org/doi/full/10.1145/3578361)\
+  **Honglei Zhang**, Fangyuan Luo, Jun Wu, Xiangnan He, Yidong Li.
+  
 - On Robustness of Neural ODEs Image Classifiers \
   `INS 2024` | [**Paper**](https://www.sciencedirect.com/science/article/pii/S0020025523003444) \
   Wenjun Cui, **Honglei Zhang**, Haoyu Chu, Pipi Hu, Yidong Li.
