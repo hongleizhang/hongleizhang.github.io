@@ -105,7 +105,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   Jundong Chen, **Honglei Zhang**, Haoxuan Li, Chunxu Zhang, Zhiwei Li, Yidong Li.
   
 - [CoDTS: Enhancing Sparsely Supervised Collaborative Perception with a Dual Teacher-Student Framework](https://ojs.aaai.org/index.php/AAAI/article/view/32348) \
-  `AAAI 2025` |[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32348)  [**Code**](https://github.com/CatOneTwo/CoDTS) \
+  `AAAI 2025` |[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32348)  [Code](https://github.com/CatOneTwo/CoDTS) \
   Yushan Han, Hui Zhang, **Honglei Zhang**, Jing Wang, Yidong Li.
   
 - [A Tutorial of Personalized Federated Recommender Systems: Recent Advances and Future Directions](https://arxiv.org/pdf/2412.08071) \
@@ -140,7 +140,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   Jundong Chen, **Honglei Zhang**, Haoxuan Li, Yidong Li.
  
 - [Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation](https://arxiv.org/pdf/2406.03933) \
-  `Arxiv 2025` | [Paper](https://arxiv.org/pdf/2406.03933)  [**Code**](https://github.com/hongleizhang/FedCA)\
+  `Arxiv 2025` | [Paper](https://arxiv.org/pdf/2406.03933)  [Code](https://github.com/hongleizhang/FedCA)\
   **Honglei Zhang**, Haoxuan Li, Jundong Chen, Sen Cui, Kunda Yan, Abudukelimu Wuerkaixi, Xin Zhou, Zhiqi Shen, Yidong Li.
  
 - [PrivFR: Privacy-Enhanced Federated Recommendation with Shared Hash Embedding](https://ieeexplore.ieee.org/abstract/document/10506199) \
