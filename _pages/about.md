@@ -30,39 +30,6 @@ My research interests lie in recommender system and federated learning. More spe
 - **Federated Learning:** personalized federated learning, on-device learning, local elastic adaptation, global composite aggregation
 
 
-# 🔥 News
-
-<ul class="projects-box" id="projects-box">
-<li> 2025.05: Our one paper about knowledge editing is accepted to ACL (main) 2025.</li>
-<li> 2025.05: Our one paper about model merging is accepted to ICML 2025.</li>
-<li> 2025.04: Our one paper about explainable recommendations is accepted to TOIS 2025.</li>
-<li> 2025.04: Our two papers about sequential recommendations are accepted to SIGIR 2025.</li>
-<li> 2025.02: Our one paper about out-of-distribution recommendation is accepted to TOIS 2025.</li>
-<li> 2025.01: Our one paper about flatness-aware continual learning is accepted to TPAMI 2025.</li>
-<li> 2025.01: Our two papers about out-of-distribution recommendations are accepted to WWW 2025.</li>
-<li> 2024.12: Our two papers about LLMs fine-tuning and sequential recommendation are accepted to AAAI 2025.</li>
-<li> 2024.11: Our one paper about recommendation unlearning is accepted to TOIS 2024.</li>
-<li> 2024.11: Our one survey paper about forgetting in deep learning is accepted to TPAMI 2024.</li>
-<li> 2024.09: Our one paper about continual learning is accepted to TPAMI 2024.</li>
-<li> 2024.05: Our one paper about model merging is accepted to ICML 2024.</li>
-<li> 2024.01: Our one paper about model merging is accepted to ICLR 2024.</li>
-<li> 2023.10: Our one paper about sequential recommendation is accepted to TKDE 2023.</li>
-<li> 2023.09: Our one paper about dataset condensation is accepted to NeurIPS 2023.</li>
-<li> 2023.07: Our one paper about flatness-aware continual learning is accepted to ICCV 2023.</li>
-<li> 2023.04: Our one paper about next-basket recommendation is accepted to IJCAI 2023.</li>
-<p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">More</span></p>
-</ul>
-
-<!-- 
-- 2025.01: Our one paper about LLMs fine-tuning is accepted to NAACL 2025.
-- 2025.01: Our one paper about medication recommendation is accepted to DASFAA 2025. 
-- 2024.12: Our one paper about multimodal recommendation is accepted to ICASSP 2025.
-- 2024.07: Our one paper about sequential recommendation is accepted to RecSys 2024.
-- 2024.06: Our one paper about de-confounding recommendation is accepted to ACM TKDD 2024.
-- 2024.02: Our one paper about multi-task recommendation is accepted to ACM TKDD 2024.
-- 2023.10: Our one paper about explanation recommendation is accepted to KBS 2023.
--->
-
 
 <!-- 
 &nbsp;🎉 
