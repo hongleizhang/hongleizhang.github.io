@@ -26,7 +26,7 @@ Hello! This is Honglei Zhang (张洪磊, E-mail: honglei.zhang@bjtu.edu.cn). Now
 -->
 
 My research interests lie in recommender system and federated learning. More specifically, I focus on:
-- **Recommender System:** trustworthy recommendation, privacy-preserving recommendation, federated recommendation, debiased recommendation, lightweight recommendation
+- **Recommender System:** trustworthy recommendation, privacy-preserving/federated recommendation, debiased recommendation
 - **Federated Learning:** personalized federated learning, on-device learning, local elastic adaptation, global composite aggregation
 
 
@@ -41,10 +41,10 @@ My research interests lie in recommender system and federated learning. More spe
 # ✨ Repositories
 
 Comments and contributions are welcome. 
-- [**Awesome-Model-Merging-Methods-Theories-Applications**](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) [![](https://img.shields.io/github/stars/ennengyang/Awesome-Model-Merging-Methods-Theories-Applications?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) \
-  This repository collects the latest research on Model Merging in Machine Learning. 
-- [**Awesome-Forgetting-in-Deep-Learning**](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) [![](https://img.shields.io/github/stars/ennengyang/Awesome-Forgetting-in-Deep-Learning?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) \
-  This repository collects the latest research on Catastrophic Forgetting in Deep Learning.
+- [**RSTutorials-RSPapers**](https://github.com/hongleizhang/RSPapers) [![](https://img.shields.io/github/stars/hongleizhang/RSPapers?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/hongleizhang/RSPapers) \
+  This repository collects a curated list of must-read papers on recommender system. 
+- [**RSTutorials-RSAlgorithms**](https://github.com/hongleizhang/RSAlgorithms) [![](https://img.shields.io/github/stars/hongleizhang/RSAlgorithms?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/hongleizhang/RSAlgorithms) \
+  This repository collects a set of algorithms about traditional and social recommender system
   
 <!-- 
 - [**DA-CL-4Rec**](https://github.com/KingGugu/DA-CL-4Rec) [![](https://img.shields.io/github/stars/KingGugu/DA-CL-4Rec?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/KingGugu/DA-CL-4Rec) ([Yizhou Dang](https://kinggugu.github.io/) is the owner) \
