@@ -164,6 +164,8 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 - 2023.10 - 2024.10: Visiting Ph.D. Student at Nanyang Technological University, Singapore.
 - 2020.09 - 2025.03 Ph.D. Student at Beijing Jiaotong University, China.
+- 2016.09 - 2019.06 Master Student at Beijing Jiaotong University, China.
+- 2012.09 - 2016.06 Undergraduate Student at Hebei Normal University, China.
 
 <!--
 - 2018.09 - 2021.07: M.S. Student at [Northeastern University, China](https://www.neu.edu.cn/).
