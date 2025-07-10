@@ -203,7 +203,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
   - SIGKDD2022 Workshop on Trustworthy Recommender Systems, Publicity Chair
   - WWW2025 Tutorials on Federated Recommender Systems, Speaker
-  - Official Account on Machine Learning and Recommender Systems, Founder
+  - Official Account on [Machine Learning and Recommender Systems](https://mp.weixin.qq.com/s/WqpRxKBUHYBeuTh6AETpTQ), Founder
 
 
 <!--
