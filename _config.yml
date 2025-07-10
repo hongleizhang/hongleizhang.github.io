@@ -28,8 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=L5o3ERIAAAAJ&hl=zh-CN"
-  email            : "honglei.zhang@bjtu.edu.cn"
-  researchgate     :  
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -44,7 +43,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://mp.weixin.qq.com/s/WqpRxKBUHYBeuTh6AETpTQ"
+  email            : "honglei.zhang@bjtu.edu.cn"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
