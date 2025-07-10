@@ -71,22 +71,29 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Survey Papers
 
-- Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging \
-  `Arxiv 2025` | [**Paper**](https://arxiv.org/pdf/2505.19892) [**Code**](https://github.com/WalkerWorldPeace/MLLMerging) \
-  Yongxian Wei, Runxi Cheng, Weike Jin, **Enneng Yang**, Li Shen, Lu Hou, Sinan Du, Chun Yuan, Xiaochun Cao, Dacheng Tao.
+- Learn to Preserve Personality: Federated Foundation Models in Recommendations \
+  `Arxiv 2025` | [**Paper**](https://arxiv.org/pdf/2506.11563) \
+  Zhiwei Li, Guodong Long, Chunxu Zhang, **Honglei Zhang**, Jing Jiang, Chengqi Zhang.
   
-- Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities \
-  `Arxiv 2024` | [**Paper**](https://arxiv.org/pdf/2408.07666) [**Code**](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) \
-  **Enneng Yang**, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang, Dacheng Tao.
+- Personalized Recommendation Models in Federated Settings: A Survey \
+  `Arxiv 2025` | [**Paper**](https://arxiv.org/pdf/2504.07101) [**Code**](https://anonymous.4open.science/r/Personalized_FedRecSys) \
+  Chunxu Zhang, Guodong Long, Zijian Zhang, Zhiwei Li, **Honglei Zhang**, Qiang Yang, Bo Yang.
 
-- Data Augmentation for Sequential Recommendation: A Survey \
-  `Arxiv 2024` | [**Paper**](https://arxiv.org/pdf/2409.13545) [**Code**](https://github.com/KingGugu/DA-CL-4Rec)  \
-  Yizhou Dang, **Enneng Yang**, Yuting Liu, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang.
-<!-- ([Yizhou Dang](https://kinggugu.github.io/) provides maintenance.) -->
+- Learning to Hash for Recommendation: A Survey \
+  `Arxiv 2024` | [**Paper**](https://arxiv.org/abs/2412.03875) [**Code**](https://github.com/Luo-Fangyuan/HashRec)  \
+  Fangyuan Luo, **Honglei Zhang**, Tong Li, Jun Wu.
 
-- A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning \
-  `TPAMI 2024` | [**Paper**](https://arxiv.org/pdf/2307.09218) [**Code**](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) \
-  Zhenyi Wang, **Enneng Yang**, Li Shen, Heng Huang.
+- Advancing Sustainability via Recommender Systems: A Survey \
+  `Arxiv 2024` | [**Paper**](https://arxiv.org/pdf/2411.07658) [**Code**](https://github.com/enoche/SusRec) \
+  Xin Zhou, Lei Zhang, **Honglei Zhang**, Yixin Zhang, Xiaoxiong Zhang, Jie Zhang, Zhiqi Shen.
+ 
+ - 面向可信联邦学习公平性的研究综述 \
+  `电子学报 2023` | [**Paper**](https://www.ejournal.org.cn/CN/10.12263/DZXB.20230139) \
+  陈颢瑜, 李浥东, **张洪磊**, 陈乃月.
+ 
+ - 基于隐私保护的联邦推荐算法综述 \
+  `自动化学报 2022` | [**Paper**](http://www.aas.net.cn/article/doi/10.16383/j.aas.c211189) \
+  **张洪磊**, 李浥东, 邬俊, 陈乃月, 董海荣.
 
 <!--Just accepted -->
 <!-- [**Paper**]() [**Code**]()  -->
