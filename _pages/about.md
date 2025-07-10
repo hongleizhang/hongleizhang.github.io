@@ -26,8 +26,8 @@ Hello! This is Honglei Zhang (张洪磊, E-mail: honglei.zhang@bjtu.edu.cn). Now
 -->
 
 My research interests lie in recommender system and federated learning. More specifically, I focus on:
-- **Recommender System:** multi-task/multi-scenario recommendation, sequential recommendation, robust recommendation, CTR/CVR prediction, discrete recommendation
-- **Federated Learning:** foundation models, model merging, multi-task learning, continual/incremental learning, data-free learning, dataset/knowledge distillation
+- **Recommender System:** trustworthy recommendation, privacy-preserving recommendation, federated recommendation, debiased recommendation, lightweight recommendation
+- **Federated Learning:** personalized federated learning, on-device learning, local elastic adaptation, global composite aggregation
 
 
 # 🔥 News
