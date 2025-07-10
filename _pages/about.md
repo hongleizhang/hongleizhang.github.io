@@ -126,12 +126,13 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   
 - [Integrating Dual User Network Embedding with Matrix Factorization for Social Recommender Systems](https://ieeexplore.ieee.org/abstract/document/8851715/) \
   `IJCNN 2019` | [Paper](https://ieeexplore.ieee.org/abstract/document/8851715/)  \
-  Liying Chen$^{\wedge}$, **Honglei Zhang**$^{\wedge}$ ($^{\wedge}$ *indicates co-first authors*), Jun Wu.
+  Liying Chen$^{\ast}$, **Honglei Zhang**$^{\ast}$ ($^{\ast}$ *indicates co-first authors*), Jun Wu.
   
 - [Social Collaborative Filtering Ensemble](https://link.springer.com/chapter/10.1007/978-3-319-97304-3_77) \
   `PRICAI 2018` | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-97304-3_77)  \
   **Honglei Zhang**, Gangdu Liu, Jun Wu.
 
+<!-- $^{\dagger}$ ($^{\dagger}$ *indicates corresponding authors*) -->
 
 ## Journal Papers
 
@@ -141,7 +142,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   
 - [Learning to Unlearn for Bayesian Personalized Ranking via Influence Function](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2023.00.417) \
  `电子学报 2025` | [Paper](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2023.00.417)\
-  Jundong Chen$^{\wedge}$, **Honglei Zhang**$^{\wedge}$ ($^{\wedge}$ *indicates co-first authors*), Haoxuan Li, Yidong Li.
+  Jundong Chen$^{\ast}$, **Honglei Zhang**$^{\ast}$ ($^{\ast}$ *indicates co-first authors*), Haoxuan Li, Yidong Li.
  
 - [Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation](https://arxiv.org/pdf/2406.03933) \
   `Arxiv 2025` | [Paper](https://arxiv.org/pdf/2406.03933)  [Code](https://github.com/hongleizhang/FedCA)\
