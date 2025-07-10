@@ -41,9 +41,9 @@ My research interests lie in recommender system and federated learning. More spe
 # ✨ Repositories
 
 Comments and contributions are welcome. 
-- [**RSTutorials-RSPapers**](https://github.com/hongleizhang/RSPapers) [![](https://img.shields.io/github/stars/hongleizhang/RSPapers?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/hongleizhang/RSPapers) \
+- [RSTutorials-RSPapers](https://github.com/hongleizhang/RSPapers) [![](https://img.shields.io/github/stars/hongleizhang/RSPapers?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/hongleizhang/RSPapers) \
   This repository collects a curated list of must-read papers on recommender system. 
-- [**RSTutorials-RSAlgorithms**](https://github.com/hongleizhang/RSAlgorithms) [![](https://img.shields.io/github/stars/hongleizhang/RSAlgorithms?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/hongleizhang/RSAlgorithms) \
+- [RSTutorials-RSAlgorithms](https://github.com/hongleizhang/RSAlgorithms) [![](https://img.shields.io/github/stars/hongleizhang/RSAlgorithms?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/hongleizhang/RSAlgorithms) \
   This repository collects a set of algorithms about traditional and social recommender system
 
 
@@ -71,8 +71,8 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Survey Papers
 
-- Learn to Preserve Personality: Federated Foundation Models in Recommendations \
-  `Arxiv 2025` | [**Paper**](https://arxiv.org/pdf/2506.11563) \
+- [Learn to Preserve Personality: Federated Foundation Models in Recommendations](https://arxiv.org/pdf/2506.11563) \
+  `Arxiv 2025` | [Paper](https://arxiv.org/pdf/2506.11563) \
   Zhiwei Li, Guodong Long, Chunxu Zhang, **Honglei Zhang**, Jing Jiang, Chengqi Zhang.
   
 - Personalized Recommendation Models in Federated Settings: A Survey \
