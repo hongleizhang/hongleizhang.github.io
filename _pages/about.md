@@ -202,8 +202,8 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   
 ## Organizers
 
-  - SIGKDD2022 Workshop on Trustworthy Recommender Systems, Publicity Chair
-  - WWW2025 Tutorials on Federated Recommender Systems, Speaker
+  - SIGKDD2022 Workshop on [Trustworthy Recommender Systems](https://rrs2022.github.io/Organization/), Publicity Chair
+  - WWW2025 Tutorials on [Federated Recommender Systems](https://www2025.thewebconf.org/accepted-tutorials), Speaker
   - Official Account on [Machine Learning and Recommender Systems](https://mp.weixin.qq.com/s/WqpRxKBUHYBeuTh6AETpTQ), Founder
 
 
