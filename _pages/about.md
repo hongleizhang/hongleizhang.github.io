@@ -181,6 +181,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 # 🔖 Services
 
 ## Conference Reviewers
+  - AAAI Conference on Artificial Intelligence (AAAI) 2026
   - ACM International Conference on Web Search and Data Mining (WSDM) 2026
   - Conference on Neural Information Processing Systems (NeurIPS) 2025
   - International Conference on Machine Learning (ICML) 2025
