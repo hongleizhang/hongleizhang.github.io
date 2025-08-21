@@ -196,11 +196,11 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   - ACM International Conference on Multimedia (MM) 2024
     
 ## Journal Reviewers
-  - ACM Transactions on Information Systems (TOIS) 2025
-  - IEEE Transactions on Knowledge and Data Engineering (TKDE) 2025
-  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 2024
-  - IEEE Transactions on Image Processing (TIP) 2022
-  - 自动化学报 2025
+  - ACM Transactions on Information Systems (TOIS)
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+  - IEEE Transactions on Image Processing (TIP)
+  - 自动化学报
   
 ## Organizers
 
