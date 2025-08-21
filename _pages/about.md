@@ -116,9 +116,9 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `ICDE 2025` | [Paper](https://ieeexplore.ieee.org/abstract/document/10597923/)  \
   **Honglei Zhang**, Shuyi Wang, Haoxuan Li, Chunyuan Zheng, Xu Chen, Li Liu, Shanshan Luo, Peng Wu.
   
-- [TransFR: Transferable Federated Recommendation with Pre-trained Language Models](https://arxiv.org/pdf/2402.01124) \
+- [TransFR: Transferable Federated Recommendation with Adapter Tuning on Pre-trained Language Models](https://arxiv.org/pdf/2402.01124) \
   `Arxiv 2024` | [Paper](https://arxiv.org/pdf/2402.01124)\
-  **Honglei Zhang**, Zhiwei Li, Haoxuan Li, Yidong Li.
+  **Honglei Zhang**, Zhiwei Li, Haoxuan Li, Xin Zhou, Jie Zhang, Yidong Li.
   
 - [Robust Watermarking using Inverse Gradient Attention](https://arxiv.org/abs/2011.10850) \
   `Arxiv 2022` | [Paper](https://arxiv.org/abs/2011.10850)  \
@@ -200,6 +200,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   - IEEE Transactions on Knowledge and Data Engineering (TKDE) 2025
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 2024
   - IEEE Transactions on Image Processing (TIP) 2022
+  - 自动化学报 2025
   
 ## Organizers
 
