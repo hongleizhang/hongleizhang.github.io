@@ -84,7 +84,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   Xin Zhou, Lei Zhang, **Honglei Zhang**, Yixin Zhang, Xiaoxiong Zhang, Jie Zhang, Zhiqi Shen.
   
 - [Personalized Recommendation Models in Federated Settings: A Survey](https://arxiv.org/pdf/2504.07101) \
-  `IEEE TKDE 2025` | [Paper](https://arxiv.org/pdf/2504.07101) [Code](https://anonymous.4open.science/r/Personalized_FedRecSys) \
+  `TKDE 2025` | [Paper](https://arxiv.org/pdf/2504.07101) [Code](https://anonymous.4open.science/r/Personalized_FedRecSys) \
   Chunxu Zhang, Guodong Long, Zijian Zhang, Zhiwei Li, **Honglei Zhang**, Qiang Yang, Bo Yang.
  
  - [面向可信联邦学习公平性的研究综述](https://www.ejournal.org.cn/CN/10.12263/DZXB.20230139) \
