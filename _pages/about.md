@@ -74,10 +74,6 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - [Learn to Preserve Personality: Federated Foundation Models in Recommendations](https://arxiv.org/pdf/2506.11563) \
   `Arxiv 2025` | [Paper](https://arxiv.org/pdf/2506.11563) \
   Zhiwei Li, Guodong Long, Chunxu Zhang, **Honglei Zhang**, Jing Jiang, Chengqi Zhang.
-  
-- [Personalized Recommendation Models in Federated Settings: A Survey](https://arxiv.org/pdf/2504.07101) \
-  `Arxiv 2025` | [Paper](https://arxiv.org/pdf/2504.07101) [Code](https://anonymous.4open.science/r/Personalized_FedRecSys) \
-  Chunxu Zhang, Guodong Long, Zijian Zhang, Zhiwei Li, **Honglei Zhang**, Qiang Yang, Bo Yang.
 
 - [Learning to Hash for Recommendation: A Survey](https://arxiv.org/abs/2412.03875) \
   `Arxiv 2024` | [Paper](https://arxiv.org/abs/2412.03875) [Code](https://github.com/Luo-Fangyuan/HashRec)  \
@@ -86,6 +82,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - [Advancing Sustainability via Recommender Systems: A Survey](https://arxiv.org/pdf/2411.07658) \
   `Arxiv 2024` | [Paper](https://arxiv.org/pdf/2411.07658) [Code](https://github.com/enoche/SusRec) \
   Xin Zhou, Lei Zhang, **Honglei Zhang**, Yixin Zhang, Xiaoxiong Zhang, Jie Zhang, Zhiqi Shen.
+  
+- [Personalized Recommendation Models in Federated Settings: A Survey](https://arxiv.org/pdf/2504.07101) \
+  `IEEE TKDE 2025` | [Paper](https://arxiv.org/pdf/2504.07101) [Code](https://anonymous.4open.science/r/Personalized_FedRecSys) \
+  Chunxu Zhang, Guodong Long, Zijian Zhang, Zhiwei Li, **Honglei Zhang**, Qiang Yang, Bo Yang.
  
  - [面向可信联邦学习公平性的研究综述](https://www.ejournal.org.cn/CN/10.12263/DZXB.20230139) \
   `电子学报 2023` | [Paper](https://www.ejournal.org.cn/CN/10.12263/DZXB.20230139) \
