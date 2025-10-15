@@ -136,6 +136,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Journal Papers
 
+- [CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation](#) \
+ `TMC 2025` | [Paper](#) \
+  Yushan Han, Hui Zhang, **Honglei Zhang**, Chuntao Ding, Yuanzhouhan Cao, Yidong Li.
+
 - [Debiased Recommendation via Wasserstein Causal Balancing](https://dl.acm.org/doi/pdf/10.1145/3725731) \
  `TOIS 2025` | [Paper](https://dl.acm.org/doi/pdf/10.1145/3725731) \
   Hao Wang, Zhichao Chen, **Honglei Zhang**, Zhengnan Li, Licheng Pan, Haoxuan Li, Mingming Gong.
