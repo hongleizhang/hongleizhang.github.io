@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-Hello! This is Honglei Zhang (张洪磊, E-mail: honglei.zhang@bjtu.edu.cn). Now I'm a Siyuan Postdoc Fellow in School of Computer Science and Technology, Beijing Jiaotong University and Key Laboratory of Big Data and Artificial Intelligence in Transportation, Ministry of Education. I got my Ph.D. degree in School of Computer Science and Technology, Beijing Jiaotong University (SCST, BJTU), advised by [Prof. Yidong Li (李浥东)](https://faculty.bjtu.edu.cn/8408/). Before that, I got my Master degree in SCST of BJTU, advised by [Prof. Jun Wu (邬俊)](https://faculty.bjtu.edu.cn/8620/). From October 2023 to October 2024, I am a visiting Ph.D. in [Prof. Zhiqi Shen](https://personal.ntu.edu.sg/zqshen/) and [Xin Zhou](https://xinzhou.me/)'s group at Nanyang Technological University (NTU), Singapore.
+Hello! This is Honglei Zhang (张洪磊, E-mail: honglei.zhang@bjtu.edu.cn). Now I'm a Lecture in School of Computer Science and Technology, Beijing Jiaotong University and Key Laboratory of Big Data and Artificial Intelligence in Transportation, Ministry of Education. I got my Ph.D. degree in School of Computer Science and Technology, Beijing Jiaotong University (SCST, BJTU), advised by [Prof. Yidong Li (李浥东)](https://faculty.bjtu.edu.cn/8408/). Before that, I got my Master degree in SCST of BJTU, advised by [Prof. Jun Wu (邬俊)](https://faculty.bjtu.edu.cn/8620/). From October 2023 to October 2024, I am a visiting Ph.D. in [Prof. Zhiqi Shen](https://personal.ntu.edu.sg/zqshen/) and [Xin Zhou](https://xinzhou.me/)'s group at Nanyang Technological University (NTU), Singapore.
 
 <!-- 
  and [Dr. Zhenyi Wang](https://sites.google.com/view/zhenyiwang)
