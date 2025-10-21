@@ -113,7 +113,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   Jing Jiang, Chunxu Zhang, **Honglei Zhang**, Zhiwei Li, Yidong Li, Bo Yang.
   
 - [Uncovering the Propensity Identification Problem in Debiased Recommendations](https://ieeexplore.ieee.org/abstract/document/10597923/) \
-  `ICDE 2025` | [Paper](https://ieeexplore.ieee.org/abstract/document/10597923/)  \
+  `ICDE 2024` | [Paper](https://ieeexplore.ieee.org/abstract/document/10597923/)  \
   **Honglei Zhang**, Shuyi Wang, Haoxuan Li, Chunyuan Zheng, Xu Chen, Li Liu, Shanshan Luo, Peng Wu.
   
 - [TransFR: Transferable Federated Recommendation with Adapter Tuning on Pre-trained Language Models](https://arxiv.org/pdf/2402.01124) \
@@ -153,7 +153,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   **Honglei Zhang**, Haoxuan Li, Jundong Chen, Sen Cui, Kunda Yan, Abudukelimu Wuerkaixi, Xin Zhou, Zhiqi Shen, Yidong Li.
  
 - [PrivFR: Privacy-Enhanced Federated Recommendation with Shared Hash Embedding](https://ieeexplore.ieee.org/abstract/document/10506199) \
-  `TNNLS 2024` | [Paper](https://ieeexplore.ieee.org/abstract/document/10506199) \
+  `TNNLS 2025` | [Paper](https://ieeexplore.ieee.org/abstract/document/10506199) \
   **Honglei Zhang**, Xin Zhou, Zhiqi Shen, Yidong Li.
   
 - [On Robustness of Neural ODEs Image Classifiers](https://www.sciencedirect.com/science/article/pii/S0020025523003444) \
