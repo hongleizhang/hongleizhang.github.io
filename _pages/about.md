@@ -100,6 +100,14 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Conference Papers
 
+- [TransFR: Transferable Federated Recommendation with Adapter Tuning on Pre-trained Language Models](https://arxiv.org/pdf/2402.01124) \
+  `AAAI 2026` | [Paper](https://arxiv.org/pdf/2402.01124)\
+  **Honglei Zhang**, Zhiwei Li, Haoxuan Li, Xin Zhou, Jie Zhang, Yidong Li.
+
+- [Breaking the Aggregation Bottleneck in Federated Recommendation: A Personalized Model Merging Approach](https://arxiv.org/abs/2508.12386) \
+  `AAAI 2026` | [Paper](https://arxiv.org/abs/2508.12386)\
+  Jundong Chen, **Honglei Zhang**, Chunxu Zhang, Fangyuan Luo, Yidong Li.
+
 - [Beyond Personalization: Federated Recommendation with Calibration via Low-rank Decomposition](https://arxiv.org/pdf/2506.09525) \
   `Arxiv 2025` | [Paper](https://arxiv.org/pdf/2506.09525)   \
   Jundong Chen, **Honglei Zhang**, Haoxuan Li, Chunxu Zhang, Zhiwei Li, Yidong Li.
@@ -115,10 +123,6 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - [Uncovering the Propensity Identification Problem in Debiased Recommendations](https://ieeexplore.ieee.org/abstract/document/10597923/) \
   `ICDE 2024` | [Paper](https://ieeexplore.ieee.org/abstract/document/10597923/)  \
   **Honglei Zhang**, Shuyi Wang, Haoxuan Li, Chunyuan Zheng, Xu Chen, Li Liu, Shanshan Luo, Peng Wu.
-  
-- [TransFR: Transferable Federated Recommendation with Adapter Tuning on Pre-trained Language Models](https://arxiv.org/pdf/2402.01124) \
-  `Arxiv 2024` | [Paper](https://arxiv.org/pdf/2402.01124)\
-  **Honglei Zhang**, Zhiwei Li, Haoxuan Li, Xin Zhou, Jie Zhang, Yidong Li.
   
 - [Robust Watermarking using Inverse Gradient Attention](https://arxiv.org/abs/2011.10850) \
   `Arxiv 2022` | [Paper](https://arxiv.org/abs/2011.10850)  \
