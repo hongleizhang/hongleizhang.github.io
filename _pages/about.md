@@ -69,35 +69,6 @@ Comments and contributions are welcome.
 $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding author
 -->
 
-## Survey Papers
-
-- [Learn to Preserve Personality: Federated Foundation Models in Recommendations](https://arxiv.org/pdf/2506.11563) \
-  `Arxiv 2025` | [Paper](https://arxiv.org/pdf/2506.11563) \
-  Zhiwei Li, Guodong Long, Chunxu Zhang, **Honglei Zhang**, Jing Jiang, Chengqi Zhang.
-
-- [Learning to Hash for Recommendation: A Survey](https://arxiv.org/abs/2412.03875) \
-  `Arxiv 2024` | [Paper](https://arxiv.org/abs/2412.03875) [Code](https://github.com/Luo-Fangyuan/HashRec)  \
-  Fangyuan Luo, **Honglei Zhang**, Tong Li, Jun Wu.
-
-- [Advancing Sustainability via Recommender Systems: A Survey](https://arxiv.org/pdf/2411.07658) \
-  `Arxiv 2024` | [Paper](https://arxiv.org/pdf/2411.07658) [Code](https://github.com/enoche/SusRec) \
-  Xin Zhou, Lei Zhang, **Honglei Zhang**, Yixin Zhang, Xiaoxiong Zhang, Jie Zhang, Zhiqi Shen.
-  
-- [Personalized Recommendation Models in Federated Settings: A Survey](https://arxiv.org/pdf/2504.07101) \
-  `TKDE 2025` | [Paper](https://arxiv.org/pdf/2504.07101) [Code](https://anonymous.4open.science/r/Personalized_FedRecSys) \
-  Chunxu Zhang, Guodong Long, Zijian Zhang, Zhiwei Li, **Honglei Zhang**, Qiang Yang, Bo Yang.
- 
- - [面向可信联邦学习公平性的研究综述](https://www.ejournal.org.cn/CN/10.12263/DZXB.20230139) \
-  `电子学报 2023` | [Paper](https://www.ejournal.org.cn/CN/10.12263/DZXB.20230139) \
-  陈颢瑜, 李浥东, **张洪磊**, 陈乃月.
- 
- - [基于隐私保护的联邦推荐算法综述](http://www.aas.net.cn/article/doi/10.16383/j.aas.c211189) \
-  `自动化学报 2022` | [Paper](http://www.aas.net.cn/article/doi/10.16383/j.aas.c211189) \
-  **张洪磊**, 李浥东, 邬俊, 陈乃月, 董海荣.
-
-<!--Just accepted -->
-<!-- [**Paper**]() [**Code**]()  -->
-
 ## Conference Papers
 
 - [TransFR: Transferable Federated Recommendation with Adapter Tuning on Pre-trained Language Models](https://arxiv.org/pdf/2402.01124) \
@@ -167,6 +138,36 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - [LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization](https://dl.acm.org/doi/full/10.1145/3578361) \
   `TOIS 2023` | [Paper](https://dl.acm.org/doi/full/10.1145/3578361)\
   **Honglei Zhang**, Fangyuan Luo, Jun Wu, Xiangnan He, Yidong Li.
+  
+
+## Survey Papers
+
+- [Learn to Preserve Personality: Federated Foundation Models in Recommendations](https://arxiv.org/pdf/2506.11563) \
+  `Arxiv 2025` | [Paper](https://arxiv.org/pdf/2506.11563) \
+  Zhiwei Li, Guodong Long, Chunxu Zhang, **Honglei Zhang**, Jing Jiang, Chengqi Zhang.
+
+- [Learning to Hash for Recommendation: A Survey](https://arxiv.org/abs/2412.03875) \
+  `Arxiv 2024` | [Paper](https://arxiv.org/abs/2412.03875) [Code](https://github.com/Luo-Fangyuan/HashRec)  \
+  Fangyuan Luo, **Honglei Zhang**, Tong Li, Jun Wu.
+
+- [Advancing Sustainability via Recommender Systems: A Survey](https://arxiv.org/pdf/2411.07658) \
+  `Arxiv 2024` | [Paper](https://arxiv.org/pdf/2411.07658) [Code](https://github.com/enoche/SusRec) \
+  Xin Zhou, Lei Zhang, **Honglei Zhang**, Yixin Zhang, Xiaoxiong Zhang, Jie Zhang, Zhiqi Shen.
+  
+- [Personalized Recommendation Models in Federated Settings: A Survey](https://arxiv.org/pdf/2504.07101) \
+  `TKDE 2025` | [Paper](https://arxiv.org/pdf/2504.07101) [Code](https://anonymous.4open.science/r/Personalized_FedRecSys) \
+  Chunxu Zhang, Guodong Long, Zijian Zhang, Zhiwei Li, **Honglei Zhang**, Qiang Yang, Bo Yang.
+ 
+ - [面向可信联邦学习公平性的研究综述](https://www.ejournal.org.cn/CN/10.12263/DZXB.20230139) \
+  `电子学报 2023` | [Paper](https://www.ejournal.org.cn/CN/10.12263/DZXB.20230139) \
+  陈颢瑜, 李浥东, **张洪磊**, 陈乃月.
+ 
+ - [基于隐私保护的联邦推荐算法综述](http://www.aas.net.cn/article/doi/10.16383/j.aas.c211189) \
+  `自动化学报 2022` | [Paper](http://www.aas.net.cn/article/doi/10.16383/j.aas.c211189) \
+  **张洪磊**, 李浥东, 邬俊, 陈乃月, 董海荣.
+
+<!--Just accepted -->
+<!-- [**Paper**]() [**Code**]()  -->
 
 # 📖 Educations
 
