@@ -47,7 +47,7 @@ Comments and contributions are welcome.
   This repository collects a set of algorithms about traditional and social recommender system
 
 
-# 📝 Selected Preprints and Publications 
+# 📝 Selected Publications and Preprints 
 
 <!-- 
 <a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">[CCF-Rank]</a>
