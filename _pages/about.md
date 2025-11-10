@@ -49,6 +49,8 @@ Comments and contributions are welcome.
 
 # 📝 Selected Publications and Preprints 
 
+Including conference papers, journal papers and survey papers. 
+
 <!-- 
 <a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">[CCF-Rank]</a>
 <a href="https://www.caai.cn/index.php?s=/home/article/detail/id/3445.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">[CCAI-Rank]</a>
