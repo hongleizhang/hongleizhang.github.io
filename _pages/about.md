@@ -98,7 +98,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   **Honglei Zhang**, Shuyi Wang, Haoxuan Li, Chunyuan Zheng, Xu Chen, Li Liu, Shanshan Luo, Peng Wu.
   
 - [Robust Watermarking using Inverse Gradient Attention](https://arxiv.org/abs/2011.10850) \
-  `Arxiv 2022` | [Paper](https://arxiv.org/abs/2011.10850)  \
+  `BESC 2022` | [Paper](https://arxiv.org/abs/2011.10850)  \
   **Honglei Zhang**, Hu Wang, Yuanzhouhan Cao, Chunhua Shen, Yidong Li.
   
 - [Integrating Dual User Network Embedding with Matrix Factorization for Social Recommender Systems](https://ieeexplore.ieee.org/abstract/document/8851715/) \
