@@ -113,7 +113,11 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Journal Papers
 
-- [CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation](#) \
+- [Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation](https://arxiv.org/pdf/2406.03933) \
+  `TOIS 2026` | [Paper](https://arxiv.org/pdf/2406.03933)  [Code](https://github.com/hongleizhang/FedCA)\
+  **Honglei Zhang**, Haoxuan Li, Jundong Chen, Sen Cui, Kunda Yan, Abudukelimu Wuerkaixi, Xin Zhou, Zhiqi Shen, Yidong Li.
+
+- [CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation](https://arxiv.org/abs/2510.13432) \
  `TMC 2025` | [Paper](#) \
   Yushan Han, Hui Zhang, **Honglei Zhang**, Chuntao Ding, Yuanzhouhan Cao, Yidong Li.
 
@@ -124,10 +128,6 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - [Learning to Unlearn for Bayesian Personalized Ranking via Influence Function](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2023.00.417) \
  `电子学报 2025` | [Paper](https://cje.ejournal.org.cn/article/doi/10.23919/cje.2023.00.417)\
   Jundong Chen$^{\ast}$, **Honglei Zhang**$^{\ast}$ ($^{\ast}$ *indicates co-first authors*), Haoxuan Li, Yidong Li.
- 
-- [Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation](https://arxiv.org/pdf/2406.03933) \
-  `Arxiv 2025` | [Paper](https://arxiv.org/pdf/2406.03933)  [Code](https://github.com/hongleizhang/FedCA)\
-  **Honglei Zhang**, Haoxuan Li, Jundong Chen, Sen Cui, Kunda Yan, Abudukelimu Wuerkaixi, Xin Zhou, Zhiqi Shen, Yidong Li.
  
 - [PrivFR: Privacy-Enhanced Federated Recommendation with Shared Hash Embedding](https://ieeexplore.ieee.org/abstract/document/10506199) \
   `TNNLS 2025` | [Paper](https://ieeexplore.ieee.org/abstract/document/10506199) \
