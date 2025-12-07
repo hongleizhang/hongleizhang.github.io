@@ -80,10 +80,6 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - [Breaking the Aggregation Bottleneck in Federated Recommendation: A Personalized Model Merging Approach](https://arxiv.org/abs/2508.12386) \
   `AAAI 2026` | [Paper](https://arxiv.org/abs/2508.12386)\
   Jundong Chen, **Honglei Zhang**, Chunxu Zhang, Fangyuan Luo, Yidong Li.
-
-- [Beyond Personalization: Federated Recommendation with Calibration via Low-rank Decomposition](https://arxiv.org/pdf/2506.09525) \
-  `Arxiv 2025` | [Paper](https://arxiv.org/pdf/2506.09525)   \
-  Jundong Chen, **Honglei Zhang**, Haoxuan Li, Chunxu Zhang, Zhiwei Li, Yidong Li.
   
 - [CoDTS: Enhancing Sparsely Supervised Collaborative Perception with a Dual Teacher-Student Framework](https://ojs.aaai.org/index.php/AAAI/article/view/32348) \
   `AAAI 2025` |[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32348)  [Code](https://github.com/CatOneTwo/CoDTS) \
@@ -116,6 +112,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - [Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation](https://arxiv.org/pdf/2406.03933) \
   `TOIS 2026` | [Paper](https://arxiv.org/pdf/2406.03933)  [Code](https://github.com/hongleizhang/FedCA)\
   **Honglei Zhang**, Haoxuan Li, Jundong Chen, Sen Cui, Kunda Yan, Abudukelimu Wuerkaixi, Xin Zhou, Zhiqi Shen, Yidong Li.
+
+- [Beyond Personalization: Federated Recommendation with Calibration via Low-rank Decomposition](https://arxiv.org/pdf/2506.09525) \
+  `Arxiv 2025` | [Paper](https://arxiv.org/pdf/2506.09525)   \
+  Jundong Chen, **Honglei Zhang**, Haoxuan Li, Chunxu Zhang, Zhiwei Li, Yidong Li.
 
 - [CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation](https://arxiv.org/abs/2510.13432) \
  `TMC 2025` | [Paper](#) \
@@ -212,6 +212,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - IEEE Transactions on Image Processing (TIP)
+  - Information Sciences (INS)
   - 自动化学报
   
 ## Organizers
