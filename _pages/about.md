@@ -114,8 +114,12 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   **Honglei Zhang**, Haoxuan Li, Jundong Chen, Sen Cui, Kunda Yan, Abudukelimu Wuerkaixi, Xin Zhou, Zhiqi Shen, Yidong Li.
 
 - [Beyond Personalization: Federated Recommendation with Calibration via Low-rank Decomposition](https://arxiv.org/pdf/2506.09525) \
-  `Arxiv 2025` | [Paper](https://arxiv.org/pdf/2506.09525)   \
+  `Arxiv 2026` | [Paper](https://arxiv.org/pdf/2506.09525)   \
   Jundong Chen, **Honglei Zhang**, Haoxuan Li, Chunxu Zhang, Zhiwei Li, Yidong Li.
+
+- [Efficient Federated Metric Learning and Machine Unlearning Based on Prototype Distillation](#) \
+  `TSC 2026` | [Paper](#)  \
+  Jingyi Li, Zikai zhang, **Honglei Zhang**, Yidong Li.
 
 - [CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation](https://arxiv.org/abs/2510.13432) \
  `TMC 2025` | [Paper](#) \
