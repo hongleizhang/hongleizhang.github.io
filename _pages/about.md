@@ -28,7 +28,7 @@ Hello! This is Honglei Zhang (张洪磊, E-mail: honglei.zhang@bjtu.edu.cn). Now
 My research interests lie in recommender system and federated learning. More specifically, I focus on:
 - **Recommender System:** trustworthy recommendation, privacy-preserving/federated recommendation, debiased recommendation
 - **Federated Learning:** personalized federated learning, on-device learning, local elastic adaptation, global composite aggregation
-- **Foundation Models:** privacy-preserving foundation models, defense and attacks on foundation models, lightweight foundation models
+- **Foundation Models:** privacy-preserving foundation models, defense and attacks on foundation models, efficient foundation models
 
 
 🔥 <font color="red"> Our team is seeking self-motivated students (including remote internships, undergraduates, graduate students, and other candidates) to join research on recommender systems, federated learning and foundation models, with the goal of publishing high-quality academic papers. If interested, please email me your resume. </font>
