@@ -119,8 +119,8 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `Arxiv 2026` | [Paper](https://arxiv.org/pdf/2506.09525)   \
   Jundong Chen, **Honglei Zhang**, Haoxuan Li, Chunxu Zhang, Zhiwei Li, Yidong Li.
 
-- [Efficient Federated Metric Learning and Machine Unlearning Based on Prototype Distillation](#) \
-  `TSC 2026` | [Paper](#)  \
+- [Efficient Federated Metric Learning and Machine Unlearning Based on Prototype Distillation](https://ieeexplore.ieee.org/document/11304257/) \
+  `TSC 2026` | [Paper](https://ieeexplore.ieee.org/document/11304257/)  \
   Jingyi Li, Zikai zhang, **Honglei Zhang**, Yidong Li.
 
 - [CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation](https://arxiv.org/abs/2510.13432) \
