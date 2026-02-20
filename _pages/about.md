@@ -195,12 +195,12 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - 2025.04: "A Tutorial of Personalized Federated Recommender Systems: Recent Advances and Future Directions"; Inviter: WWW 2025
 - 2024.07: "How to Identify Innovation Opportunities in Recommender Systems"; Inviter: Xijing University
 
-<!--
+
 # 🏆 Honors and Awards
 
-- 2025.11: Honor Name
+- 2025.11: Outstanding Doctoral Dissertation Incentive Program (优秀博士学位论文激励计划), CCF Intelligent Transportation Committee (中国计算机学会智慧交通分会)
 
--->
+
 
 # 🔖 Services
 
