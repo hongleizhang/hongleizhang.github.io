@@ -121,7 +121,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 - [Efficient Federated Metric Learning and Machine Unlearning Based on Prototype Distillation](https://ieeexplore.ieee.org/document/11304257/) \
   `TSC 2026` | [Paper](https://ieeexplore.ieee.org/document/11304257/)  \
-  Jingyi Li, Zikai zhang, **Honglei Zhang**, Yidong Li.
+  Jingyi Li, Zikai Zhang, **Honglei Zhang**, Yidong Li.
 
 - [CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation](https://arxiv.org/abs/2510.13432) \
  `TMC 2025` | [Paper](#) \
