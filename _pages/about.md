@@ -115,6 +115,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `TOIS 2026` | [Paper](https://arxiv.org/pdf/2406.03933)  [Code](https://github.com/hongleizhang/FedCA)\
   **Honglei Zhang**, Haoxuan Li, Jundong Chen, Sen Cui, Kunda Yan, Abudukelimu Wuerkaixi, Xin Zhou, Zhiqi Shen, Yidong Li.
 
+- [Bridging Graph Learning and Federated Optimization for Recommendations](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51383-7) \
+  `FCS 2026` | [Paper](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51383-7) \
+  Chunxu Zhang, Zonghan Wu, **Honglei Zhang**, Jiaxu Cui, Bo Yang.
+
 - [Beyond Personalization: Federated Recommendation with Calibration via Low-rank Decomposition](https://arxiv.org/pdf/2506.09525) \
   `Arxiv 2026` | [Paper](https://arxiv.org/pdf/2506.09525)   \
   Jundong Chen, **Honglei Zhang**, Haoxuan Li, Chunxu Zhang, Zhiwei Li, Yidong Li.
@@ -205,6 +209,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 # 🔖 Services
 
 ## Conference Reviewers
+  - Conference on Neural Information Processing Systems (NeurIPS) 2026
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026
   - ACM International Conference on Multimedia (MM) 2026
   - International Conference on Learning Representations (ICLR) 2026
