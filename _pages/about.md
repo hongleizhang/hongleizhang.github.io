@@ -209,7 +209,6 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 # 🔖 Services
 
 ## Conference Reviewers
-  - Conference on Neural Information Processing Systems (NeurIPS) 2026
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026
   - ACM International Conference on Multimedia (MM) 2026
   - International Conference on Learning Representations (ICLR) 2026
