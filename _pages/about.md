@@ -210,6 +210,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Conference Reviewers
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026
+  - International ACM Conference on Knowledge and Information Management (CIKM) 2026
   - ACM International Conference on Multimedia (MM) 2026
   - International Conference on Learning Representations (ICLR) 2026
   - AAAI Conference on Artificial Intelligence (AAAI) 2026
