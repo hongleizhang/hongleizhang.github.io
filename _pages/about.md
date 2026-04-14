@@ -111,6 +111,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Journal Papers
 
+- [FedUTR: Federated Recommendation with Augmented Universal Textual Representation for Sparse Interaction Scenarios](https://arxiv.org/abs/2604.07351) \
+  `Arxiv 2026` | [Paper](https://arxiv.org/abs/2604.07351)  \
+  Kang Fu, **Honglei Zhang**, Zikai Zhang, Jundong Chen, Xin Zhou, Zhiqi Shen, Dusit Niyato, Yidong Li.
+
 - [Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation](https://arxiv.org/pdf/2406.03933) \
   `TOIS 2026` | [Paper](https://arxiv.org/pdf/2406.03933)  [Code](https://github.com/hongleizhang/FedCA)\
   **Honglei Zhang**, Haoxuan Li, Jundong Chen, Sen Cui, Kunda Yan, Abudukelimu Wuerkaixi, Xin Zhou, Zhiqi Shen, Yidong Li.
