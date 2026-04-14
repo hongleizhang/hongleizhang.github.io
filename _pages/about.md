@@ -119,13 +119,17 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `TOIS 2026` | [Paper](https://arxiv.org/pdf/2406.03933)  [Code](https://github.com/hongleizhang/FedCA)\
   **Honglei Zhang**, Haoxuan Li, Jundong Chen, Sen Cui, Kunda Yan, Abudukelimu Wuerkaixi, Xin Zhou, Zhiqi Shen, Yidong Li.
 
+- [Bridging Graph Learning and Federated Optimization for Recommendations](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51383-7) \
+  `FCS 2026` | [Paper](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51383-7) \
+  Chunxu Zhang, Zonghan Wu, **Honglei Zhang**, Jiaxu Cui, Bo Yang.
+
 - [Beyond Personalization: Federated Recommendation with Calibration via Low-rank Decomposition](https://arxiv.org/pdf/2506.09525) \
   `Arxiv 2026` | [Paper](https://arxiv.org/pdf/2506.09525)   \
   Jundong Chen, **Honglei Zhang**, Haoxuan Li, Chunxu Zhang, Zhiwei Li, Yidong Li.
 
 - [Efficient Federated Metric Learning and Machine Unlearning Based on Prototype Distillation](https://ieeexplore.ieee.org/document/11304257/) \
   `TSC 2026` | [Paper](https://ieeexplore.ieee.org/document/11304257/)  \
-  Jingyi Li, Zikai zhang, **Honglei Zhang**, Yidong Li.
+  Jingyi Li, Zikai Zhang, **Honglei Zhang**, Yidong Li.
 
 - [CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation](https://arxiv.org/abs/2510.13432) \
  `TMC 2025` | [Paper](#) \
@@ -199,16 +203,19 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - 2025.04: "A Tutorial of Personalized Federated Recommender Systems: Recent Advances and Future Directions"; Inviter: WWW 2025
 - 2024.07: "How to Identify Innovation Opportunities in Recommender Systems"; Inviter: Xijing University
 
-<!--
+
 # 🏆 Honors and Awards
 
-- 2025.11: Honor Name
+- 2025.11: Outstanding Doctoral Dissertation Incentive Program (优秀博士学位论文激励计划), CCF Intelligent Transportation Committee (中国计算机学会智慧交通分会)
 
--->
+
 
 # 🔖 Services
 
 ## Conference Reviewers
+  - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026
+  - International ACM Conference on Knowledge and Information Management (CIKM) 2026
+  - ACM International Conference on Multimedia (MM) 2026
   - International Conference on Learning Representations (ICLR) 2026
   - AAAI Conference on Artificial Intelligence (AAAI) 2026
   - ACM International Conference on Web Search and Data Mining (WSDM) 2026
