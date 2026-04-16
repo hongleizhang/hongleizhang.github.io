@@ -75,6 +75,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Conference Papers
 
+- [From Transfer to Collaboration: A Federated Framework for Cross-Market Sequential Recommendation](https://arxiv.org/abs/2604.13573) \
+  `Arxiv 2026` | [Paper](https://arxiv.org/abs/2604.13573)   \
+  Jundong Chen, **Honglei Zhang**, Xianmou Qu, Haoxuan Li, Han Yu, Yidong Li.
+  
 - [TransFR: Transferable Federated Recommendation with Adapter Tuning on Pre-trained Language Models](https://arxiv.org/pdf/2402.01124) \
   `AAAI 2026` | [Paper](https://arxiv.org/pdf/2402.01124)\
   **Honglei Zhang**, Zhiwei Li, Haoxuan Li, Xin Zhou, Jie Zhang, Yidong Li.
