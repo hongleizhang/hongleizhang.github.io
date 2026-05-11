@@ -246,6 +246,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   - IEEE Transactions on Intelligent Transportation Systems (TITS)
   - IEEE Transactions on Image Processing (TIP)
   - Information Sciences (INS)
+  - Neurocomputing (NEUCOM)
   - 自动化学报
   
 ## Organizers
