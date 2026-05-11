@@ -166,8 +166,8 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Survey Papers
 
-- [Learn to Preserve Personality: Federated Foundation Models in Recommendations](https://arxiv.org/pdf/2506.11563) \
-  `Arxiv 2025` | [Paper](https://arxiv.org/pdf/2506.11563) \
+- [A Survey of Personalized Federated Foundation Models for Privacy-Preserving Recommendation](https://arxiv.org/pdf/2506.11563) \
+  `IJCAI 2026` | [Paper](https://arxiv.org/pdf/2506.11563) \
   Zhiwei Li, Guodong Long, Chunxu Zhang, **Honglei Zhang**, Jing Jiang, Chengqi Zhang.
 
 - [Learning to Hash for Recommendation: A Survey](https://arxiv.org/abs/2412.03875) \
