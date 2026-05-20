@@ -116,7 +116,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 ## Journal Papers
 
 - [FedUTR: Federated Recommendation with Augmented Universal Textual Representation for Sparse Interaction Scenarios](https://arxiv.org/abs/2604.07351) \
-  `Arxiv 2026` | [Paper](https://arxiv.org/abs/2604.07351)  \
+  `TMM 2026` | [Paper](https://arxiv.org/abs/2604.07351)  \
   Kang Fu, **Honglei Zhang**, Zikai Zhang, Jundong Chen, Xin Zhou, Zhiqi Shen, Dusit Niyato, Yidong Li.
 
 - [Beyond Personalization: Federated Recommendation with Calibration via Low-rank Decomposition](https://arxiv.org/abs/2506.09525) \
