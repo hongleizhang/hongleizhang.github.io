@@ -247,6 +247,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   - IEEE Transactions on Image Processing (TIP)
   - Information Sciences (INS)
   - Neurocomputing (NEUCOM)
+  - Knowledge-Based Systems (KNOSYS)
   - 自动化学报
   
 ## Organizers
