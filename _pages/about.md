@@ -221,6 +221,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 # 🔖 Services
 
 ## Conference Reviewers
+  - AAAI Conference on Artificial Intelligence (AAAI) 2027
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026
   - International ACM Conference on Knowledge and Information Management (CIKM) 2026
   - ACM International Conference on Multimedia (MM) 2026
@@ -242,9 +243,11 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 ## Journal Reviewers
   - ACM Transactions on Information Systems (TOIS)
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  - IEEE Transactions on Multimedia (TMM)
+  - IEEE Transactions on Image Processing (TIP)
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - IEEE Transactions on Intelligent Transportation Systems (TITS)
-  - IEEE Transactions on Image Processing (TIP)
+  - IEEE Transactions on Industrial Informatics (TII)
   - Information Sciences (INS)
   - Neurocomputing (NEUCOM)
   - Knowledge-Based Systems (KNOSYS)
