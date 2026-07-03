@@ -255,6 +255,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   
 ## Organizers
 
+  - MM2026 Workshop on [Efficient Representation Learning for Multimodal Information Retrieval](https://erel-mir.github.io/), Publicity Chair
   - SIGKDD2022 Workshop on [Trustworthy Recommender Systems](https://rrs2022.github.io/), Publicity Chair
   - WWW2025 Tutorials on [Federated Recommender Systems](https://www2025.thewebconf.org/accepted-tutorials), Speaker
   - Official Account on [Machine Learning and Recommender Systems](https://mp.weixin.qq.com/s/WqpRxKBUHYBeuTh6AETpTQ), Founder
