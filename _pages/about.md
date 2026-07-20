@@ -77,10 +77,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 - [From Transfer to Collaboration: A Federated Framework for Cross-Market Sequential Recommendation](https://arxiv.org/abs/2604.13573) \
   `MM 2026` | [Paper](https://arxiv.org/abs/2604.13573)   \
-  Jundong Chen, **Honglei Zhang**$^{\dagger}$, Xiangmou Qu, Haoxuan Li, Han Yu, Yidong Li.
+  Jundong Chen, **Honglei Zhang**, Xiangmou Qu, Haoxuan Li, Han Yu, Yidong Li.
   
 - [TransFR: Transferable Federated Recommendation with Adapter Tuning on Pre-trained Language Models](https://arxiv.org/pdf/2402.01124) \
-  `AAAI 2026` | [Paper](https://arxiv.org/pdf/2402.01124)\
+  `AAAI 2026` | [Paper](https://dl.acm.org/doi/10.1609/aaai.v40i33.40048)\
   **Honglei Zhang**, Zhiwei Li, Haoxuan Li, Xin Zhou, Jie Zhang, Yidong Li.
 
 - [Breaking the Aggregation Bottleneck in Federated Recommendation: A Personalized Model Merging Approach](https://arxiv.org/abs/2508.12386) \
@@ -117,7 +117,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 - [FedUTR: Federated Recommendation with Augmented Universal Textual Representation for Sparse Interaction Scenarios](https://arxiv.org/abs/2604.07351) \
   `TMM 2026` | [Paper](https://arxiv.org/abs/2604.07351)  \
-  Kang Fu, **Honglei Zhang**$^{\dagger}$, Zikai Zhang, Jundong Chen, Xin Zhou, Zhiqi Shen, Dusit Niyato, Yidong Li.
+  Kang Fu, **Honglei Zhang**, Zikai Zhang, Jundong Chen, Xin Zhou, Zhiqi Shen, Dusit Niyato, Yidong Li.
 
 - [Beyond Personalization: Federated Recommendation with Calibration via Low-rank Decomposition](https://arxiv.org/abs/2506.09525) \
   `Arxiv 2026` | [Paper](https://arxiv.org/pdf/2506.09525)   \
@@ -128,7 +128,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   Kang Fu, **Honglei Zhang**, Xuechao Zou, Yidong Li.
 
 - [Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation](https://arxiv.org/pdf/2406.03933) \
-  `TOIS 2026` | [Paper](https://arxiv.org/pdf/2406.03933)  [Code](https://github.com/hongleizhang/FedCA)\
+  `TOIS 2026` | [Paper](https://dl.acm.org/doi/10.1145/3779442)  [Code](https://github.com/hongleizhang/FedCA)\
   **Honglei Zhang**, Haoxuan Li, Jundong Chen, Sen Cui, Kunda Yan, Abudukelimu Wuerkaixi, Xin Zhou, Zhiqi Shen, Yidong Li.
 
 - [Bridging Graph Learning and Federated Optimization for Recommendations](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51383-7) \
