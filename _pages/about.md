@@ -221,6 +221,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 # 🔖 Services
 
 ## Conference Reviewers
+  - ACM International Conference on Web Search and Data Mining (WSDM) 2027
   - AAAI Conference on Artificial Intelligence (AAAI) 2027
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026
   - International ACM Conference on Knowledge and Information Management (CIKM) 2026
