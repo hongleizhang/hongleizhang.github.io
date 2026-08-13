@@ -79,20 +79,20 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `MM 2026` | [Paper](https://arxiv.org/abs/2604.13573)   \
   Jundong Chen, **Honglei Zhang**, Xiangmou Qu, Haoxuan Li, Han Yu, Yidong Li.
   
-- [TransFR: Transferable Federated Recommendation with Adapter Tuning on Pre-trained Language Models](https://arxiv.org/pdf/2402.01124) \
-  `AAAI 2026` | [Paper](https://dl.acm.org/doi/10.1609/aaai.v40i33.40048)\
+- [TransFR: Transferable Federated Recommendation with Adapter Tuning on Pre-trained Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/40048) \
+  `AAAI 2026` | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40048)\
   **Honglei Zhang**, Zhiwei Li, Haoxuan Li, Xin Zhou, Jie Zhang, Yidong Li.
 
-- [Breaking the Aggregation Bottleneck in Federated Recommendation: A Personalized Model Merging Approach](https://arxiv.org/abs/2508.12386) \
-  `AAAI 2026` | [Paper](https://arxiv.org/abs/2508.12386)\
+- [Breaking the Aggregation Bottleneck in Federated Recommendation: A Personalized Model Merging Approach](https://ojs.aaai.org/index.php/AAAI/article/view/38472) \
+  `AAAI 2026` | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38472)\
   Jundong Chen, **Honglei Zhang**, Chunxu Zhang, Fangyuan Luo, Yidong Li.
   
 - [CoDTS: Enhancing Sparsely Supervised Collaborative Perception with a Dual Teacher-Student Framework](https://ojs.aaai.org/index.php/AAAI/article/view/32348) \
   `AAAI 2025` |[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32348)  [Code](https://github.com/CatOneTwo/CoDTS) \
   Yushan Han, Hui Zhang, **Honglei Zhang**, Jing Wang, Yidong Li.
   
-- [A Tutorial of Personalized Federated Recommender Systems: Recent Advances and Future Directions](https://arxiv.org/pdf/2412.08071) \
-  `WWW 2025` | [Paper](https://arxiv.org/pdf/2412.08071) \
+- [A Tutorial of Personalized Federated Recommender Systems: Recent Advances and Future Directions](https://dl.acm.org/doi/10.1145/3701716.3715860) \
+  `WWW 2025` | [Paper](https://dl.acm.org/doi/10.1145/3701716.3715860) \
   Jing Jiang, Chunxu Zhang, **Honglei Zhang**, Zhiwei Li, Yidong Li, Bo Yang.
   
 - [Uncovering the Propensity Identification Problem in Debiased Recommendations](https://ieeexplore.ieee.org/abstract/document/10597923/) \
@@ -127,7 +127,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `Arxiv 2026` | [Paper](https://arxiv.org/pdf/2512.24715)  \
   Kang Fu, **Honglei Zhang**, Xuechao Zou, Yidong Li.
 
-- [Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation](https://arxiv.org/pdf/2406.03933) \
+- [Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation](https://dl.acm.org/doi/10.1145/3779442) \
   `TOIS 2026` | [Paper](https://dl.acm.org/doi/10.1145/3779442)  [Code](https://github.com/hongleizhang/FedCA)\
   **Honglei Zhang**, Haoxuan Li, Jundong Chen, Sen Cui, Kunda Yan, Abudukelimu Wuerkaixi, Xin Zhou, Zhiqi Shen, Yidong Li.
 
@@ -139,8 +139,8 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `TSC 2026` | [Paper](https://ieeexplore.ieee.org/document/11304257/)  \
   Jingyi Li, Zikai Zhang, **Honglei Zhang**, Yidong Li.
 
-- [CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation](https://arxiv.org/abs/2510.13432) \
- `TMC 2025` | [Paper](#) \
+- [CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation](https://ieeexplore.ieee.org/document/11206456) \
+ `TMC 2025` | [Paper](https://ieeexplore.ieee.org/document/11206456) \
   Yushan Han, Hui Zhang, **Honglei Zhang**, Chuntao Ding, Yuanzhouhan Cao, Yidong Li.
 
 - [Debiased Recommendation via Wasserstein Causal Balancing](https://dl.acm.org/doi/pdf/10.1145/3725731) \
@@ -178,8 +178,8 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `Arxiv 2024` | [Paper](https://arxiv.org/pdf/2411.07658) [Code](https://github.com/enoche/SusRec) \
   Xin Zhou, Lei Zhang, **Honglei Zhang**, Yixin Zhang, Xiaoxiong Zhang, Jie Zhang, Zhiqi Shen.
   
-- [Personalized Recommendation Models in Federated Settings: A Survey](https://arxiv.org/pdf/2504.07101) \
-  `TKDE 2025` | [Paper](https://arxiv.org/pdf/2504.07101) [Code](https://anonymous.4open.science/r/Personalized_FedRecSys) \
+- [Personalized Recommendation Models in Federated Settings: A Survey](https://ieeexplore.ieee.org/document/11151823/) \
+  `TKDE 2025` | [Paper](https://ieeexplore.ieee.org/document/11151823/) [Code](https://anonymous.4open.science/r/Personalized_FedRecSys) \
   Chunxu Zhang, Guodong Long, Zijian Zhang, Zhiwei Li, **Honglei Zhang**, Qiang Yang, Bo Yang.
  
  - [面向可信联邦学习公平性的研究综述](https://www.ejournal.org.cn/CN/10.12263/DZXB.20230139) \
