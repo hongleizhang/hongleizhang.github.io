@@ -124,7 +124,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   Jundong Chen, **Honglei Zhang**, Haoxuan Li, Chunxu Zhang, Zhiwei Li, Yidong Li.
 
 - [MDiffFR: Modality-Guided Diffusion Generation for Cold-start Items in Federated Recommendation](https://arxiv.org/abs/2512.24715) \
-  `Arxiv 2026` | [Paper](https://arxiv.org/pdf/2512.24715)  \
+  `TOIS 2026` | [Paper](https://arxiv.org/pdf/2512.24715)  \
   Kang Fu, **Honglei Zhang**, Xuechao Zou, Yidong Li.
 
 - [Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation](https://dl.acm.org/doi/10.1145/3779442) \
