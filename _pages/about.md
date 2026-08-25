@@ -123,8 +123,8 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   `Arxiv 2026` | [Paper](https://arxiv.org/pdf/2506.09525)   \
   Jundong Chen, **Honglei Zhang**, Haoxuan Li, Chunxu Zhang, Zhiwei Li, Yidong Li.
 
-- [MDiffFR: Modality-Guided Diffusion Generation for Cold-start Items in Federated Recommendation](https://arxiv.org/abs/2512.24715) \
-  `TOIS 2026` | [Paper](https://arxiv.org/pdf/2512.24715)  \
+- [MDiffFR: Modality-Guided Diffusion Generation for Cold-start Items in Federated Recommendation](https://dl.acm.org/doi/10.1145/3843228) \
+  `TOIS 2026` | [Paper](https://dl.acm.org/doi/10.1145/3843228)  \
   Kang Fu, **Honglei Zhang**, Xuechao Zou, Yidong Li.
 
 - [Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation](https://dl.acm.org/doi/10.1145/3779442) \
