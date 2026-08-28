@@ -221,6 +221,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 # 🔖 Services
 
 ## Conference Reviewers
+  - International Conference on Learning Representations (ICLR) 2027
   - ACM International Conference on Web Search and Data Mining (WSDM) 2027
   - AAAI Conference on Artificial Intelligence (AAAI) 2027
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026
@@ -249,6 +250,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - IEEE Transactions on Intelligent Transportation Systems (TITS)
   - IEEE Transactions on Industrial Informatics (TII)
+  - IEEE Internet of Things Journal (IOTJ)
   - Information Sciences (INS)
   - Neurocomputing (NEUCOM)
   - Knowledge-Based Systems (KNOSYS)
