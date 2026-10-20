@@ -75,6 +75,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Conference Papers
 
+- [When Semantics Fall Short: Persona-Guided Cross-Domain Sequential Recommendation with Large Language Models](https://arxiv.org/abs/2610.25221) \
+  `Arxiv 2026` | [Paper](https://arxiv.org/pdf/2610.25221)   \
+  Jundong Chen, **Honglei Zhang**, Shuai An, Enneng Yang, Han Yu.
+  
 - [From Transfer to Collaboration: A Federated Framework for Cross-Market Sequential Recommendation](https://arxiv.org/abs/2604.13573) \
   `MM 2026` | [Paper](https://arxiv.org/abs/2604.13573)   \
   Jundong Chen, **Honglei Zhang**, Xiangmou Qu, Haoxuan Li, Han Yu, Yidong Li.
