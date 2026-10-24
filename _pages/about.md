@@ -46,7 +46,7 @@ Comments and contributions are welcome.
 - [RSTutorials-RSPapers](https://github.com/hongleizhang/RSPapers) [![](https://img.shields.io/github/stars/hongleizhang/RSPapers?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/hongleizhang/RSPapers) \
   This repository collects a curated list of must-read papers on recommender system. 
 - [RSTutorials-RSAlgorithms](https://github.com/hongleizhang/RSAlgorithms) [![](https://img.shields.io/github/stars/hongleizhang/RSAlgorithms?style=flat&label=Stars&logo=github&labelColor=f6f6f6&color=9cf&logoColor=020d12)](https://github.com/hongleizhang/RSAlgorithms) \
-  This repository collects a set of algorithms about traditional and social recommender system
+  This repository collects a set of algorithms about traditional and social recommender system.
 
 
 # 📝 Selected Publications and Preprints 
