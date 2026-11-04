@@ -168,6 +168,12 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   **Honglei Zhang**, Fangyuan Luo, Jun Wu, Xiangnan He, Yidong Li.
   
 
+## Tutorials
+
+- [A Tutorial of Personalized Federated Recommender Systems: Recent Advances and Future Directions](https://dl.acm.org/doi/10.1145/3701716.3715860) \
+  `WWW 2026` | [Paper](https://dl.acm.org/doi/10.1145/3701716.3715860) \
+  Jing Jiang, Chunxu Zhang, **Honglei Zhang**, Zhiwei Li, Yidong Li, Bo Yang.
+
 ## Survey Papers
 
 - [A Survey of Personalized Federated Foundation Models for Privacy-Preserving Recommendation](https://arxiv.org/pdf/2506.11563) \
