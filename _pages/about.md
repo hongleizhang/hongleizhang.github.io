@@ -124,7 +124,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   Kang Fu, **Honglei Zhang**, Zikai Zhang, Jundong Chen, Xin Zhou, Zhiqi Shen, Dusit Niyato, Yidong Li.
 
 - [Beyond Personalization: Federated Recommendation with Calibration via Low-rank Decomposition](https://arxiv.org/abs/2506.09525) \
-  `Arxiv 2026` | [Paper](https://arxiv.org/pdf/2506.09525)   \
+  `TKDE 2026` | [Paper](https://arxiv.org/pdf/2506.09525)   \
   Jundong Chen, **Honglei Zhang**, Haoxuan Li, Chunxu Zhang, Zhiwei Li, Yidong Li.
 
 - [MDiffFR: Modality-Guided Diffusion Generation for Cold-start Items in Federated Recommendation](https://dl.acm.org/doi/10.1145/3843228) \
