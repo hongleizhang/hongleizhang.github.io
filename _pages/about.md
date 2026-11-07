@@ -119,10 +119,6 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Journal Papers
 
-- [FedUTR: Federated Recommendation with Augmented Universal Textual Representation for Sparse Interaction Scenarios](https://arxiv.org/abs/2604.07351) \
-  `TMM 2026` | [Paper](https://arxiv.org/abs/2604.07351)  \
-  Kang Fu, **Honglei Zhang**, Zikai Zhang, Jundong Chen, Xin Zhou, Zhiqi Shen, Dusit Niyato, Yidong Li.
-
 - [Beyond Personalization: Federated Recommendation with Calibration via Low-rank Decomposition](https://arxiv.org/abs/2506.09525) \
   `TKDE 2026` | [Paper](https://arxiv.org/pdf/2506.09525)   \
   Jundong Chen, **Honglei Zhang**, Haoxuan Li, Chunxu Zhang, Zhiwei Li, Yidong Li.
@@ -130,6 +126,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 - [MDiffFR: Modality-Guided Diffusion Generation for Cold-start Items in Federated Recommendation](https://dl.acm.org/doi/10.1145/3843228) \
   `TOIS 2026` | [Paper](https://dl.acm.org/doi/10.1145/3843228)  \
   Kang Fu, **Honglei Zhang**, Xuechao Zou, Yidong Li.
+  
+- [FedUTR: Federated Recommendation with Augmented Universal Textual Representation for Sparse Interaction Scenarios](https://arxiv.org/abs/2604.07351) \
+  `TMM 2026` | [Paper](https://arxiv.org/abs/2604.07351)  \
+  Kang Fu, **Honglei Zhang**, Zikai Zhang, Jundong Chen, Xin Zhou, Zhiqi Shen, Dusit Niyato, Yidong Li.
 
 - [Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation](https://dl.acm.org/doi/10.1145/3779442) \
   `TOIS 2026` | [Paper](https://dl.acm.org/doi/10.1145/3779442)  [Code](https://github.com/hongleizhang/FedCA)\
