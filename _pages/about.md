@@ -217,6 +217,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 # 💬 Invited Talks
 
+- 2026.11: "Towards Personalized Model Aggregation for Distributed Recommendation"; Inviter: Xi'an Jiaotong University
 - 2025.11: "Towards Efficient Privacy-Preserving Techniques for Recommender Systems"; Inviter: CCF ITSC 2025
 - 2025.04: "A Tutorial of Personalized Federated Recommender Systems: Recent Advances and Future Directions"; Inviter: WWW 2025
 - 2024.07: "How to Identify Innovation Opportunities in Recommender Systems"; Inviter: Xijing University
@@ -258,6 +259,7 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
   
 ## Organizers
 
+  - CCF ITSC2026 Forum on [Data Intelligence and Trustworthy Decision-Making](https://mp.weixin.qq.com/s/q7EVT4IlluTJR8Woaj2XmA), Forum Chair
   - MM2026 Workshop on [Efficient Representation Learning for Multimodal Information Retrieval](https://erel-mir.github.io/), Publicity Chair
   - WWW2025 Tutorials on [Federated Recommender Systems](https://www2025.thewebconf.org/accepted-tutorials), Speaker
   - SIGKDD2022 Workshop on [Trustworthy Recommender Systems](https://rrs2022.github.io/), Publicity Chair
