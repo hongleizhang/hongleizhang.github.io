@@ -176,6 +176,10 @@ $^{\ast}$ indicates equal contribution, $^{\dagger}$ indicates corresponding aut
 
 ## Survey Papers
 
+- [Device-Cloud Collaborative Intelligence in Recommender Systems: A Systematic Survey in the Large Model Era](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7700138) \
+  `Arxiv 2026` | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7700138) \
+  **Honglei Zhang**, Jundong Chen, Yuxuan Liu, Kang Fu, Jun Wu, Shuai An, Enneng Yang, Han Yu, Philip S. Yu, Yidong Li.
+
 - [A Survey of Personalized Federated Foundation Models for Privacy-Preserving Recommendation](https://arxiv.org/pdf/2506.11563) \
   `IJCAI 2026` | [Paper](https://arxiv.org/pdf/2506.11563) \
   Zhiwei Li, Guodong Long, Chunxu Zhang, **Honglei Zhang**, Jing Jiang, Chengqi Zhang.
